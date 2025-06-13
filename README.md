@@ -81,5 +81,7 @@ python animation.py
 ## Acknowledgements
 
 - PyQt5 for providing the GUI framework
-- [Any other acknowledgements]
+
+## Demo
+![Demo](demo.png)
 
